@@ -1,6 +1,6 @@
 lxml>=4.9.1
 docutils<=0.17
-sphinx==2.4.4
+sphinx==3.0.4
 breathe==4.13.0
 exhale
 sphinx_rtd_theme
